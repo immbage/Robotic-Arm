@@ -77,4 +77,4 @@ Common issues and how to resolve them.
 
 ## Support
 
-Email me for QnA: rahmandi.business@gmail.com
+Email for QnA: rahmandi.business@gmail.com
